@@ -1,7 +1,7 @@
 # Portfolio
 List of my Side Projects
 
-### ICT302 Professional Project
+### University Professional Project
 + [Loading Management System](https://github.com/Diren52/Truck-n-Load)
 
 ### Java
