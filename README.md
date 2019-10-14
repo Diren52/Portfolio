@@ -10,10 +10,8 @@ List of my Side Projects
 + [Console Dating Application](https://github.com/Diren52/Dating-Application)
 
 
-### C++
-- [Data Structures and Abstractions](https://github.com/Diren52/Data-Abstraction-and-structures/)
-
-### C
+### C/C++
++ [Data Structures and Abstractions](https://github.com/Diren52/Data-Abstraction-and-structures/)
 + [Coin Change Calculator](https://github.com/Diren52/Change)
 
 ### C#
